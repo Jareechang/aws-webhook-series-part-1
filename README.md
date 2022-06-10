@@ -1,6 +1,6 @@
 # AWS Webhook Technical series: Part 1
 
-This is the part 1 of the technical series.
+This is the part 1 of the technical series, it is available [here](https://www.jerrychang.ca/writing/build-a-webhook-microservice-using-aws-technical-series-lambda-infrastructure).
 
 <img src="https://www.jerrychang.ca/images/og-image-lambda-webhook-services-part-1.png" alt="AWS Webhook technical series part 1" style="width:100%">
 
