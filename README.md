@@ -2,6 +2,8 @@
 
 This is the part 1 of the technical series.
 
+<img src="https://www.jerrychang.ca/images/og-image-lambda-webhook-services-part-1.png" alt="AWS Webhook technical series part 1" style="width:100%">
+
 **By the end of this module, you should:**
 
 - ✅ Understand the folder structure and it’s setup
