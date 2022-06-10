@@ -18,4 +18,6 @@ This is the part 1 of the technical series.
 
 - ✅ Be able to Test out the lambda functions manually (using AWS CLI) 
 
+<img src="https://www.jerrychang.ca/images/webhook-lambda-infrastructure.png" alt="AWS initial lambda infrastructure" style="width:100%">
+
 Feel free to use this starter template - [aws-webhook-series-starter](https://github.com/Jareechang/aws-webhook-series-starter) as a starting point.
